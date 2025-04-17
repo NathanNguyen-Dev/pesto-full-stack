@@ -1,6 +1,0 @@
-[submodule "pesto-front-end"]
-	path = pesto-front-end
-	url = https://github.com/NathanNguyen-Dev/pesto-front-end
-[submodule "pesto-back-end"]
-	path = pesto-back-end
-	url = https://github.com/NathanNguyen-Dev/pesto-back-end
