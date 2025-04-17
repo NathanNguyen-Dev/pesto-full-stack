@@ -1,0 +1,6 @@
+[submodule "pesto-back-end"]
+	path = pesto-back-end
+	url = ./pesto-back-end
+[submodule "pesto-front-end"]
+	path = pesto-front-end
+	url = ./pesto-front-end
